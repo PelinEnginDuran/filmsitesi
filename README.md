@@ -4,10 +4,9 @@
 
 Bu proje de HTML5 CSS3 VE JAVASCRIPT kullanılmıştır.
 
-![Ekran Görüntüsü](spider-man.mp4)
+![Ekran Görüntüsü](spiderman.mp4)
+![]()
 
 
-# firstproject
-# firstproject
-# firstproject
+
 # filmsitesi
