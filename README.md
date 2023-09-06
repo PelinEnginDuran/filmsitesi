@@ -4,7 +4,7 @@
 
 Bu proje de HTML5 CSS3 VE JAVASCRIPT kullanılmıştır.
 
-![Ekran Görüntüsü](spiderman.mp4)
+![Ekran Görüntüsü](spiderman.gif)
 ![]()
 
 
