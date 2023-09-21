@@ -4,10 +4,9 @@
 
 Bu proje de HTML5 CSS3 VE JAVASCRIPT kullanılmıştır.
 
-![Ekran Görüntüsü](spiderman.gif)
-![](spiderman2.gif)
-
+Proje Gif;
 
 
 # filmsitesi
 <img src="spiderman.gif"/>
+<img src="spiderman2.gif"/>
